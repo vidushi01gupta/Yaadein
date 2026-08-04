@@ -8,7 +8,7 @@ import { checkGuess } from "./utils/checkWord";
 import { getStreak, updateStreak } from "./utils/streak";
 import { getReminder, saveReminder } from "./utils/reminder";
 import HowToPlay from "./components/HowToPlay";
-import InstallButton from "./components/InstallButton";
+import InstallButton from "./components/Installbutton";
 import HintPopup from "./components/HintPopup";
 
 let howToShownThisPageLoad = false;
