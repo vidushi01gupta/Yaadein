@@ -1,0 +1,705 @@
+{
+  "refreshTime": "00:00 IST",
+
+  "days": {
+    "2026-08-1": {
+      "category": "90s Bollywood - Movies",
+      "word": "DDLJ",
+      "hint":"The train scene that defined Bollywood romance forever.",
+      "trivia": "DDLJ is one of the longest-running films in Indian cinema history.",
+      "image": "/mem.jpg"
+    },
+    "2026-08-2": {
+      "category": "90s Bollywood - Movies",
+      "word": "KUCHKUCHHOTAHAI",
+      "hint": "The love triangle that begins in college and ends years later.",
+      "trivia": "Kuch Kuch Hota Hai starred Shah Rukh Khan, Kajol, and Salman Khan in a love triangle.",
+      "image": "/mem1.jpg"
+    },
+    "2026-08-3": {
+      "category": "90s Bollywood - Movies",
+      "word": "DILSE",
+      "hint": "The film that introduced the world to the song 'Chaiyya Chaiyya'.",
+      "trivia": "Dil Se featured a hit song 'Chaiyya Chaiyya' and starred Shah Rukh Khan and Preity Zinta.",
+      "image": "/mem2.jpg"
+    },
+    "2026-08-4": {
+      "category": "90s Bollywood - Movies",
+      "word": "HUMDILDECHUKESANAM",
+      "hint": "The film that showcased the power of music in storytelling.",
+      "trivia": "Hum Dil De Chuke Sanam was a musical romance directed by Sanjay Leela Bhansali.",
+      "image": "/mem3.jpg"
+    },
+    "2026-08-5": {
+      "category": "90s Bollywood - Movies",
+      "word": "RAAZ",
+      "hint": "A couple moves to a haunted hill station to save their marriage.",
+      "trivia": "Raaz was a thriller film starring Bipasha Basu in her debut role.",
+      "image": "/mem4.jpg"
+    },
+    "2026-08-6": {
+      "category": "90s Bollywood - Movies",
+      "word": "JODINOEK",
+      "hint": "The comedy duo that ruled the 90s with their hilarious antics.",
+      "trivia": "Jodi No. 1 was a comedy starring Sanjay Dutt and Govinda.",
+      "image": "/mem5.webp"
+    },
+    "2026-08-7": {
+      "category": "90s Bollywood - Movies",
+      "word": "MAINHOONA",
+      "hint": "The film that blended patriotism with romance and comedy.",
+      "trivia": "Main Hoon Na was a patriotic film starring Shah Rukh Khan.",
+      "image": "/mem6.jpg"
+    },
+    "2026-08-8": {
+      "category": "90s Bollywood - Movies",
+      "word": "AASHIQ",
+      "hint": "The film that made us fall in love with romance and action.",
+      "trivia": "Aashiq was a romantic action film from 1990.",
+      "image": "/mem7.jpg"
+    },
+    "2026-08-9": {
+      "category": "90s Bollywood - Movies",
+      "word": "TEZAAB",
+      "hint": "The film that launched Anil Kapoor's career as an action hero.",
+      "trivia": "Tezaab was an action thriller starring Anil Kapoor.",
+      "image": "/mem8.webp"
+    },
+    "2026-08-10": {
+      "category": "90s Bollywood - Movies",
+      "word": "TRIDEV",
+      "hint": "The film that brought together three of Bollywood's biggest stars in an action-packed story.",
+      "trivia": "Tridev was an action film starring Naseeruddin Shah, Jackie Shroff, and Sunny Deol.",
+      "image": "/mem11.jpg"
+    },
+    "2026-08-11": {
+      "category": "90s Bollywood - Movies",
+      "word": "SAAJAN",
+      "hint": "The film that made us swoon over Salman Khan's romantic side.",
+      "trivia": "Saajan was a romantic film starring Salman Khan and Madhuri Dixit.",
+      "image": "/mem10.jpg"
+    },
+    "2026-08-12": {
+      "category": "90s Bollywood - Movies",
+      "word": "DEEWANA",
+      "hint": "The film that marked the debut of a future superstar and a tragic heroine.",
+      "trivia": "Deewana was a romantic drama starring Rishi Kapoor and Divya Bharati.",
+      "image": "/mem9.jpg"
+    },
+    "2026-08-13": {
+      "category": "90s Bollywood - Movies",
+      "word": "DARR",
+      "hint": "The psychological thriller that showcased Shah Rukh Khan's dark side.",
+      "trivia": "Darr was a psychological thriller starring Shah Rukh Khan and Juhi Chawla.",
+      "image": "/mem12.webp"
+    },
+    "2026-08-14": {
+      "category": "90s Bollywood - Movies",
+      "word": "BAAZIGAR",
+      "hint": "The film that made us love Shah Rukh Khan's dark side.",
+      "trivia": "Baazigar was a crime thriller starring Shah Rukh Khan in a negative role.",
+      "image": "/mem13.jpg"
+    },
+    "2026-08-15": {
+      "category": "90s Bollywood - Movies",
+      "word": "ANDAAZ",
+      "hint": "The film that showcased the power of music in storytelling.",
+      "trivia": "Andaz Apna Apna was a comedy starring Aamir Khan and Salman Khan.",
+      "image": "/mem14.jpg"
+    },
+    "2026-08-16": {
+      "category": "90s Bollywood - Movies",
+      "word": "RAJABABU",
+      "hint": "Govinda’s iconic comedy where innocence meets overconfidence.",
+      "trivia": "Karisma Kapoor and Govinda’s fun-filled 90s entertainer.",
+      "image": "/mem15.jpg"
+    },
+    "2026-08-17": {
+      "category": "90s Bollywood - Movies",
+      "word": "ANJAAM",
+      "hint": "The intense thriller that showcased Madhuri Dixit's versatility.",
+      "trivia": "Anjaam was a thriller starring Madhuri Dixit and Shahrukh Khan.",
+      "image": "/mem16.jpg"
+    },
+    "2026-08-18": {
+      "category": "90s TV Shows",
+      "word": "RAMAYAN",
+      "hint": "The epic tale of Lord Rama that captivated audiences every Sunday morning.",
+      "trivia": "The epic Ramayana brought to life on TV - Sunday mornings were sacred for this legendary series!",
+      "image": "/mem17.jpg"
+    },
+    "2026-08-19": {
+      "category": "90s TV Shows",
+      "word": "MAHABHARAT",
+      "hint": "The epic tale of the great war that united families every Sunday evening.",
+      "trivia": "The Mahabharata epic that united families every Sunday evening for years!",
+      "image": "/mem18.jpg"
+    },
+    "2026-08-20": {
+      "category": "90s TV Shows",
+      "word": "SHRIKRISHNA",
+      "hint": "The divine story of Lord Krishna that enchanted viewers with its spiritual journey.",
+      "trivia": "The life of Lord Krishna brought to screen - a spiritual journey that captivated millions!",
+      "image": "/mem19.png"
+    },
+    "2026-08-21": {
+      "category": "90s TV Shows",
+      "word": "CHANDRAKANTA",
+      "hint": "The iconic 90s series with shape-shifting spies called “Ayyars.”",
+      "trivia": "The magical fantasy series with Rajesh Khanna - pure 90s entertainment!",
+      "image": "/mem20.jpg"
+    },
+    "2026-08-22": {
+      "category": "90s TV Shows",
+      "word": "ALIFLAILA",
+      "hint": "A magical world of genies, kings, and endless bedtime stories.",
+      "trivia": "Arabian Nights tales that sparked imagination - who can forget the genie and magic?",
+      "image": "/mem21.jpg"
+    },
+    "2026-08-23": {
+      "category": "90s TV Shows",
+      "word": "BYOMKESH",
+      "hint": "India’s own Sherlock Holmes solving mysteries in Calcutta.",
+      "trivia": "The detective series featuring India's Sherlock Holmes - mystery and intrigue!",
+      "image": "/mem22.jpg"
+    },
+    "2026-08-24": {
+      "category": "90s TV Shows",
+      "word": "JUNOON",
+      "hint": "The intense love story that kept viewers hooked with its dramatic twists.",
+      "trivia": "The passionate love story that kept viewers hooked with its intense drama!",
+      "image": "/mem23.jpg"
+    },
+    "2026-08-25": {
+      "category": "90s TV Shows",
+      "word": "FARISHTA",
+      "hint": "A sci-fi hero fighting evil forces in space.",
+      "trivia": "The supernatural series about good vs evil - angels and demons on Indian TV!",
+      "image": "/mem24.jpg"
+    },
+    
+    "2026-08-26": {
+      "category": "90s TV Shows",
+      "word": "MALGUDI",
+      "hint": "The charming stories set in a fictional town that captured the essence of Indian life.",
+      "trivia": "R.K. Narayan's magical world brought to life - stories from the fictional town of Malgudi!",
+      "image": "/mem26.jpg"
+    },
+    "2026-08-27": {
+      "category": "90s TV Shows",
+      "word": "HIPHIPHURRAY",
+      "hint":"A group of school friends navigating studies, crushes, and life.",
+      "trivia": "The fun children's show that made learning exciting - hip hip hurray!",
+      "image": "/mem27.jpg"
+    },
+    "2026-08-28": {
+      "category": "90s TV Shows",
+      "word": "AAHAT",
+      "hint": "The horror show that gave 90s kids sleepless nights. 😨",
+      "trivia": "The supernatural horror series that gave viewers chills every Sunday night!",
+      "image": "/mem28.jpg"
+    },
+    "2026-08-29": {
+      "category": "90s TV Shows",
+      "word": "CAPTAINVYOM",
+      "hint": "India's space hero fighting evil in the cosmos.",
+      "trivia": "The sci-fi adventure series about India's space hero - to the stars and beyond!",
+      "image": "/mem29.jpg"
+    },
+    "2026-08-30": {
+      "category": "90s TV Shows",
+      "word": "HAMPAANCH",
+      "hint": "A comedy about a man struggling with his five daughters.",
+      "trivia": "The hilarious comedy about five inseparable friends - laughter guaranteed!",
+      "image": "/mem30.jpg"
+    },
+    "2026-08-31": {
+      "category": "90s TV Shows",
+      "word": "CID",
+      "hint": "The iconic detective series that defined crime-solving on Indian television.",
+      "trivia": "Crime Investigation Department - India's longest running detective series!",
+      "image": "/mem31.jpg"
+    },
+    
+    "2026-09-1": {
+      "category": "90s Snacks & Drinks",
+      "word": "RASNA",
+      "hint": "The drink mix that turned water into a fruity delight.",
+      "trivia": "The magical fruit drink concentrate that turned plain water into paradise!",
+      "image": "/mem32.jpg"
+    },
+    "2026-09-2": {
+      "category": "90s Snacks & Drinks",
+      "word": "FROOTI",
+      "hint": "The drink with real mango pulp that was a summer favorite.",
+      "trivia": "Real mango magic in a bottle - the king of fruit drinks!",
+      "image": "/mem33.jpg"
+    },
+    "2026-09-3": {
+      "category": "90s Snacks & Drinks",
+      "word": "GOLDSPOT",
+      "hint": "The orange soda that was a childhood favorite before Fanta took over.",
+      "trivia": "The orange drink that was gold for kids - pure citrus bliss!",
+      "image": "/mem34.jpg"
+    },
+    "2026-09-4": {
+      "category": "90s Snacks & Drinks",
+      "word": "BOURNVITA",
+      "hint": "The chocolate health drink that was a staple in Indian households.",
+      "trivia": "The health drink that made you 'taller, stronger, sharper' - every mom's favorite!",
+      "image": "/mem35.jpg"
+    },
+    "2026-09-5": {
+      "category": "90s Snacks & Drinks",
+      "word": "MILOBAR",
+      "hint": "The chocolate bar that was a quick energy boost for kids.",
+      "trivia": "The chocolate bar that gave you energy for play - Milo for the win!",
+      "image": "/mem36.jpg"
+    },
+    "2026-09-6": {
+      "category": "90s Snacks & Drinks",
+      "word": "PERK",
+      "hint": "The chocolate that was a favorite among kids for its smooth texture.",
+      "trivia": "The chocolate that made you 'melt in your mouth, not in your hand'!",
+      "image": "/mem37.webp"
+    },
+    "2026-09-7": {
+      "category": "90s Snacks & Drinks",
+      "word": "KISSME",
+      "hint": "The toffee that promised sweet kisses.",
+      "trivia": "The toffee that promised sweet kisses - childhood's guilty pleasure!",
+      "image": "/mem38.webp"
+    },
+    "2026-09-8": {
+      "category": "90s Snacks & Drinks",
+      "word": "LAYS",
+      "hint": "The potato chips that were a must-have for every party and snack time.",
+      "trivia": "The potato chips that started the snack revolution - can't eat just one!",
+      "image": "/mem39.jpg"
+    },
+    "2026-09-9": {
+      "category": "90s Snacks & Drinks",
+      "word": "PEPSI",
+      "hint": "The fizzy drink that defined every birthday party.",
+      "trivia": "The cola that challenged Coke - 'Yeh dil maange more'!",
+      "image": "/mem41.webp"
+    },
+    "2026-09-10": {
+      "category": "90s Snacks & Drinks",
+      "word": "BANTA",
+      "hint": "The carbonated drink that came in a unique glass bottle with a marble inside.",
+      "trivia": "Traditional Indian soft drink (Goli Soda) famous for its glass bottle with a marble inside - pure nostalgia in every sip!",
+      "image": "/mem42.jpeg"
+    },
+    "2026-09-10": {
+      "category": "90s Snacks & Drinks",
+      "word": "KANJEE",
+      "hint": "The drink your elders said was “good for digestion.”",
+      "trivia": "Traditional fermented rice water drink - the probiotic hero of Indian households!",
+      "image": "/mem43.jpg"
+    },
+    "2026-09-11": {
+      "category": "90s Snacks & Drinks",
+      "word": "ROOHAFZA",
+      "hint": "The pink syrup that was a summer staple for every Indian family.",
+      "trivia": "The iconic rose-flavored syrup that turned any drink into a refreshing delight!",
+      "image": "/mem44.jpg"
+    },
+    "2026-09-12": {
+      "category": "90s Snacks & Drinks",
+      "word": "JALJEERA",
+      "hint": "The refreshing drink with a spicy twist.",
+      "trivia": "Spiced lemonade with a tangy kick - the ultimate summer cooler!",
+      "image": "/mem45.jpg"
+    },
+    "2026-09-13": {
+      "category": "90s Snacks & Drinks",
+      "word": "NIMBUPANI",
+      "hint": "The simple yet refreshing drink made with lemon and sugar.",
+      "trivia": "Simple lemon water that was the go-to drink for every Indian household!",
+      "image": "/mem46.jpg"
+    },
+    "2026-09-14": {
+      "category": "90s Snacks & Drinks",
+      "word": "LASSI",
+      "hint": "The drink served in tall steel glasses after a heavy meal.",
+      "trivia": "Creamy yogurt drink that could be sweet, salty, or spiced - pure comfort!",
+      "image": "/mem47.jpg"
+    },
+    
+    "2026-09-15": {
+      "category": "90s Words",
+      "word": "RICKSHAW",
+      "hint": "The three-wheeled vehicle that was a common sight on Indian roads.",
+      "trivia": "The three-wheeled wonder that was the king of Indian roads - pedal power!",
+      "image": "/mem48.jpg"
+    },
+    "2026-09-16": {
+      "category": "90s Words",
+      "word": "MILKBOOTH",
+      "hint": "The place where fresh milk was delivered to households.",
+      "trivia": "The neighborhood milk booth where fresh milk arrived every morning!",
+      "image": "/mem49.jpg"
+    },
+    "2026-09-17": {
+      "category": "90s Words",
+      "word": "NEWSPAPER",
+      "hint": "The daily publication that brought news and stories to every household.",
+      "trivia": "Morning newspaper delivery - the original social media of the 90s!",
+      "image": "/mem50.jpg"
+    },
+    "2026-09-18": {
+      "category": "90s Words",
+      "word": "CABLETV",
+      "hint": "The service that brought television into homes across the country.",
+      "trivia": "The cable TV revolution - suddenly you had 10 channels instead of 2!",
+      "image": "/mem51.jpg"
+    },
+    "2026-09-19": {
+      "category": "90s Words",
+      "word": "BATTERY",
+      "hint": "The power source for portable electronic devices.",
+      "trivia": "The transistor radio battery that powered your music on the go!",
+      "image": "/mem52.jpg"
+    },
+    "2026-09-20": {
+      "category": "90s Words",
+      "word": "POSTCARD",
+      "hint": "The prepaid envelope that carried messages across distances.",
+      "trivia": "Beautiful postcards that carried messages and memories across distances!",
+      "image": "/mem53.jpg"
+    },
+    "2026-09-21": {
+      "category": "90s Words",
+      "word": "LETTER",
+      "hint": "The written message sent through the postal system.",
+      "trivia": "Handwritten letters that took days to deliver but arrived with love!",
+      "image": "/mem54.jpg"
+    },
+    "2026-09-22": {
+      "category": "90s Words",
+      "word": "TELEGRAM",
+      "hint": "The urgent message sent through the telegraph system.",
+      "trivia": "The urgent telegram that brought important news - good or bad!",
+      "image": "/mem55.avif"
+    },
+    "2026-09-23": {
+      "category": "90s Words",
+      "word": "LANDLINE",
+      "hint": "The fixed telephone connection in homes.", 
+      "trivia": "The family landline phone - one number for the whole household!",
+      "image": "/mem56.jpg"
+    },
+    "2026-09-24": {
+      "category": "90s Words",
+      "word": "TRUNKCALL",
+      "hint": "The long-distance call made through the telephone network.",
+      "trivia": "Long-distance trunk calls that required booking and patience!",
+      "image": "/mem57.png"
+    },
+    "2026-09-25": {
+      "category": "90s Words",
+      "word": "ANTENNA",
+      "hint": "The metal rods on the roof that captured TV signals.",
+      "trivia": "The TV antenna on the roof - the taller it was, the better the signal!",
+      "image": "/mem58.jpg"
+    },
+    "2026-09-26": {
+      "category": "90s Words",
+      "word": "REMOTE",
+      "hint": "The handheld device used to control the television.",
+      "trivia": "The TV remote control - the most fought-over item in the house!",
+      "image": "/mem59.webp"
+    },
+    "2026-09-27": {
+      "category": "90s Words",
+      "word": "VCR",
+      "hint": "The device used to play and record videos on cassette tapes.",
+      "trivia": "Video Cassette Recorder - the home theater system of the 90s!",
+      "image": "/mem60.webp"
+    },
+    
+    "2026-09-28": {
+      "category": "90s Words",
+      "word": "ALMIRAH",
+      "hint": "The large cupboard used for storing clothes and belongings.",
+      "trivia": "The steel almirah that stored clothes, documents, and family secrets!",
+      "image": "/mem62.webp"
+    },
+    "2026-09-29": {
+      "category": "90s Words",
+      "word": "COOLER",
+      "hint": "Gave us feeling of AC",
+      "trivia": "The desert cooler that brought relief during hot summer days!",
+      "image": "/mem63.jpg"
+    },
+
+    "2026-09-30": {
+      "category": "School Life Essentials",
+      "word": "NATARAJ",
+      "hint": "The pencil with the iconic red and black stripes.",
+      "trivia": "Owned by Hindustan Pencils, it's one of India's oldest and most trusted stationery brands.",
+      "image": "https://indiaprint.in/wp-content/uploads/2022/08/natraj-pencil.jpg"
+    },
+    "2026-10-1": {
+      "category": "School Life Essentials",
+      "word": "MILTON",
+      "hint":"The bottle that kept your water cold all day.",
+      "trivia": "The Milton 'Arctic' bottle was a status symbol in 90s classrooms; if you didn't have one, you wanted one.",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.Ty0awiTDjVqEGKscPKM_FgHaIC?pid=Api&P=0&h=180"
+    },
+    "2026-10-2": {
+      "category": "School Life Essentials",
+      "word": "CAMLIN",
+      "hint": "The brand that made your geometry box and art supplies.",
+      "trivia": "Founded in 1931 as 'Dandekar & Co.', it became Camlin in 1960 and defined our math lessons.",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.gfvWyTn8CfGGJBo6Abm3lAHaF3?pid=Api&P=0&h=180"
+    },
+    "2026-10-3": {
+      "category": "School Life Essentials",
+      "word": "FLOPPY",
+      "hint": "The thin square disk used to save 1.44MB of data.",
+      "trivia": "We often used these to carry just one single 'Dangerous Dave' game or a simple Word doc.",
+      "image": "https://i.pinimg.com/originals/e5/cf/b3/e5cfb308022f2ebc4c6b29a99c5551a4.jpg"
+    },
+    "2026-10-4": {
+      "category": "School Life Essentials",
+      "word": "CHALKS",
+      "hint": "These left white dust all over your navy blue skirt/pants.",
+      "trivia": "Teachers would often throw these at 'backbenchers' to get their attention during a snooze-fest.",
+      "image": "https://img.freepik.com/premium-photo/directly-shot-chalks-blackboard_1048944-4236241.jpg"
+    },
+    "2026-10-5": {
+      "category": "School Life Essentials",
+      "word": "REFILL",
+      "hint": "What you bought for 2 rupees when your pen ran out.",
+      "trivia": "Collecting empty Reynolds 045 refills was a weirdly common hobby for many 90s kids.",
+      "image": "https://m.media-amazon.com/images/I/71mylt+2-tL._AC_SL1500_.jpg"
+    },
+    "2026-10-6": {
+      "category": "School Life Essentials",
+      "word": "ERASER",
+      "hint": "The small rubber piece that was supposed to fix your mistakes.",
+      "trivia": "We all had that one eraser that looked like a cell phone or a fruit but just smudged the paper.",
+      "image": "https://tse3.mm.bing.net/th/id/OIP._rvIanH9KdMng362lnfjbAHaIg?pid=Api&P=0&h=180"
+    },
+    "2026-10-7": {
+      "category": "School Life Essentials",
+      "word": "REPORT",
+      "hint": "The card that decided if you got a new bicycle or a scolding.",
+      "trivia": "Parents' signatures on these were often the most stressful part of the entire term.",
+      "image": "https://i.pinimg.com/originals/51/3a/69/513a69de731a744a2970d1811ab21809.jpg"
+    },
+    "2026-10-08": {
+      "category": "School Life Essentials",
+      "word": "ASSEMBLY",
+      "hint": "The daily gathering that was both a ritual and a test of patience.",
+      "trivia": "Usually involved a long speech by the principal and at least one student fainting in the sun.",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.WzI42fSavKkHGCd0LqWyqwHaEo?pid=Api&P=0&h=180"
+    },
+    "2026-10-9": {
+      "category": "90s Snacks & Food",
+      "word": "MAGGI",
+      "hint":"Two minutes (which actually took ten) to prepare.",
+      "trivia": "Launched in India in 1983, it changed the way Indian kids viewed 'emergency hunger.'",
+      "image": "https://m.media-amazon.com/images/I/71T0QfFl+3L._SL1500_.jpg"
+    },
+    "2026-10-10": {
+      "category": "90s Snacks & Food",
+      "word": "FROOTI",
+      "hint": "The refreshing drink that came in a distinctive tetrapak container.",
+      "trivia": "It was India's first tetrapak drink, launched in 1985 with a very catchy jingle.",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.AWF9mgTmQ2ahxaFocfsSBwAAAA?pid=Api&P=0&h=180"
+    },
+    "2026-10-11": {
+      "category": "90s Snacks & Food",
+      "word": "GLUCON",
+      "hint": "The orange powder that gave you instant energy.",
+      "trivia": "The 'Sun' villain in the ads was terrified of kids drinking this after a long day of cricket.",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.gvq9-0XyWOYkxtESUcxrCQHaES?pid=Api&P=0&h=180"
+    },
+    "2026-10-12": {
+      "category": "90s Snacks & Food",
+      "word": "POPPINS",
+      "hint": "The colorful candy that came in a distinctive wrapper.",
+      "trivia": "Every color had a different fruit flavor, and fighting over the 'purple' one was mandatory.",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.DXBo9QWHtg9Xd1oQCFQ-fAHaE7?pid=Api&P=0&h=180"
+    },
+    "2026-10-13": {
+      "category": "90s Snacks & Food",
+      "word": "BOOMER",
+      "hint": "The bubblegum with the elastic superhero mascot.",
+      "trivia": "The 'Boom Boom Boomer' jingle was so popular it became a playground anthem.",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.Acgui5xO_BpEzEFV22X93gAAAA?pid=Api&P=0&h=180"
+    },
+    "2026-10-14": {
+      "category": "90s Snacks & Food",
+      "word": "KISMI",
+      "hint": "The bar with the taste of elaichi and caramel.",
+      "trivia": "A Parle classic that cost just 25 or 50 paise and lasted through an entire class.",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.0MvqwYozmmeadm2SxjZjpAHaFj?pid=Api&P=0&h=180"
+    },
+    "2026-10-15": {
+      "category": "90s Snacks & Food",
+      "word": "KWALITY",
+      "hint": "The name we called all ice cream before 'Walls'.",
+      "trivia": "Kwality Walls was a merger of an Indian brand (Kwality) and an international giant (Unilever).",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.uzpwKcITPwK28u2zQnhJwwHaEK?pid=Api&P=0&h=180"
+    },
+    "2026-10-16": {
+      "category": "90s Snacks & Food",
+      "word": "ROOHAFZA",
+      "hint": "The pink drink served to every guest in summer.",
+      "trivia": "Created in 1906, this cooling sherbet has survived over a century of Indian summers.",
+      "image": "https://cdn.siasat.com/wp-content/uploads/2025/03/Rooh-Afza.jpg"
+    },
+    "2026-10-17": {
+      "category": "90s Snacks & Food",
+      "word": "CHYAWANPRASH",
+      "hint": "The health paste you were forced to eat in winter",
+      "trivia": "Famous for the 'Dabur' brand ads featuring actors like Amitabh Bachchan promoting immunity.",
+      "image": "https://tse1.mm.bing.net/th/id/OIP._xD7TAS6aBOj5Ksod99BiwAAAA?pid=Api&P=0&h=180"
+    },
+    "2026-10-18": {
+      "category": "90s TV and Tech",
+      "word": "CASSETTE",
+      "hint": "The magnetic tape used for audio recording and playback.",
+      "trivia": "A T-Series cassette was the staple for every Bollywood soundtrack in the 80s and 90s.",
+      "image": "/mem61.webp"
+    },
+    "2026-10-19": {
+      "category": "90s TV and Tech",
+      "word": "SHAKTIMAAN",
+      "hint": "India's first superhero on television.",
+      "trivia": "Shaktimaan stopped kids from playing outside every Sunday afternoon at 12 PM.",
+      "image": "/mem25.jpg"
+    },
+    "2026-10-20": {
+      "category": "90s TV and Tech",
+      "word": "ANTENNA",
+      "hint": "The metal rods on your roof that captured TV signals.",
+      "trivia": "'Dikh raha hai?' (Is it visible?) was the most shouted phrase across Indian rooftops.",
+      "image": "/mem58.jpg"
+    },
+    "2026-10-21": {
+      "category": "90s TV and Tech",
+      "word": "DOORDARSHAN",
+        "hint": "The state-owned TV channel that was the only option for entertainment.",
+      "trivia": "The spinning logo and signature tune were the soundtracks to our quiet evenings.",
+      "image": "https://tse1.mm.bing.net/th/id/OIP._Ek0taqgC1W3XV_7TpoHTwAAAA?pid=Api&P=0&h=180"
+    },
+    "2026-10-22": {
+      "category": "90s TV and Tech",
+      "word": "WALKMAN",
+      "hint": "Portable music that clipped onto your belt.",
+      "trivia": "Owning a Sony Walkman made you the coolest kid in the neighborhood or on the school bus.",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.uQFqxMsGTIXaySbaPlq2QQHaE8?pid=Api&P=0&h=180"
+    },
+    "2026-10-23": {
+      "category": "90s TV and Tech",
+      "word": "NINTENDO",
+      "hint": "The gaming console that introduced us to Mario and Contra.",
+      "trivia": "In India, many of us actually played the 'Samurai' or 'Media' clones of the original NES.",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.KL960-B-h9sCh6ARSN3aAgHaEc?pid=Api&P=0&h=180"
+    },
+    "2026-10-24": {
+      "category": "90s TV and Tech",
+      "word": "DEXTER",
+      "hint": "The animated series about a boy genius with a secret lab.",
+      "trivia": "Part of the legendary Cartoon Network era that kept 90s kids glued to the TV.",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.eTBi4ztZpuXnZ7isXT8L2gHaLH?pid=Api&P=0&h=180"
+    },
+    "2026-10-25": {
+      "category": "90s TV and Tech",
+      "word": "WINDOW",
+      "hint": "The operating system that revolutionized personal computing.",
+      "trivia": "The iconic 'Startup Sound' of Windows 95 was actually composed by Brian Eno.",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.wJqVgZ3pXNzBQPEj1sUGwwHaFk?pid=Api&P=0&h=180"
+    },
+    "2026-10-26": {
+      "category": "90s TV and Tech",
+      "word": "HUMLOG",
+      "hint": "India's first soap opera (remove the underscore for 5 letters).",
+      "trivia": "It premiered in 1984 and dealt with the daily struggles of a middle-class Indian family.",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.myb85chI_vaBSfBXW4JfWQHaFj?pid=Api&P=0&h=180"
+    },
+    "2026-10-27": {
+      "category": "90s TV and Tech",
+      "word": "DIALUP",
+      "hint": "The internet connection that required a modem to connect.",
+      "trivia": "You couldn't use the phone and the internet at the same time—a true test of patience.",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.opYepMbGB7F7Rg2IrQ1ZVAEsCW?pid=Api&P=0&h=180"
+    },
+    "2026-10-28": {
+      "category": "90s Games & Play",
+      "word": "KANCHA",
+        "hint": "The small glass marbles used in a popular street game.",
+      "trivia": "Also known as 'Goti', it required serious thumb-flicking skills to win your friend's collection.",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.6QJ_jx76glfKFr_Gmi1OowHaI8?pid=Api&P=0&h=180"
+    },
+    "2026-10-29": {
+      "category": "90s Games & Play",
+      "word": "PITHU",
+      "hint": "The game where you had to knock down a pile of flat stones and run back to your base.",
+      "trivia": "Also called 'Lagori', it was the ultimate test of aim and then running away before getting hit.",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.unOwoU3A1sS1arbRuOcyAAHaEO?pid=Api&P=0&h=180"
+    },
+    "2026-10-30": {
+      "category": "90s Games & Play",
+      "word": "GULLI",
+      "hint": "Part of the 'Danda' duo.",
+      "trivia": "Gilli-Danda is often called the 'ancient cricket' of India and is over 2,500 years old.",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.ZZnq1ppDUfkmVc8KZMOWfQHaFA?pid=Api&P=0&h=180"
+    },
+    "2026-10-31": {
+      "category": "90s Games & Play",
+      "word": "LUDO",
+      "hint": "The board game that ended friendships.",
+      "trivia": "It's based on the ancient Indian game 'Pachisi', which dates back to the 6th century.",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.76HTZtI3lSv-oAUuftjoZAHaEM?pid=Api&P=0&h=180"
+    },
+    "2026-11-01": {
+      "category": "90s Games & Play",
+      "word": "CARROM",
+      "hint": "The board game where you hit a striker with your finger to pocket coins.",
+      "trivia": "A rainy day staple in every Indian household; applying 'talcum powder' to the board was key.",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.K10Hw6wH9In7l1l1hDMR0QHaEV?pid=Api&P=0&h=180"
+    },
+    "2026-11-02": {
+      "category": "90s Games & Play",
+      "word": "BEYBLADE",
+      "hint": "The high-tech version of the 'Lattu'.",
+      "trivia": "Every kid in the early 2000s wanted a 'Dragoon' or 'Dranzer' to battle in a plastic tub.",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.dUUHZsPjUXd_qW9hqbPAoAHaFi?pid=Api&P=0&h=180"
+    },
+    "2026-11-03": {
+      "category": "90s Games & Play",
+      "word": "TETRIS",
+      "hint": "Fitting blocks together on a 'Brick Game' handheld.",
+      "trivia": "Those 99-in-1 yellow handheld devices were the 'Gameboys' of the Indian middle class.",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.4dl0jm_wrOKnQIL21jMNswHaHa?pid=Api&P=0&h=180"
+    },
+    "2026-11-4": {
+      "category": "90s Games & Play",
+      "word": "TRUMP",
+      "hint": "The collectible trading cards from the wrestling promotion.",
+      "trivia": "WWF/WWE Trump Cards were the currency of the playground; everyone wanted the 'Undertaker'.",
+      "image": "https://auctiontoys.com/wp-content/uploads/WWF-Trump-cards-34.jpeg"
+    },
+    "2026-11-5": {
+      "category": "90s Games & Play",
+      "word": "STAPOO",
+      "hint": "Hopping through numbered chalk boxes.",
+      "trivia": "Also known as 'Hopscotch', it was usually played with a flat stone or a crushed bottle cap.",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.aQ6vEW7U0aj2d7hn7nrwqQHaEl?pid=Api&P=0&h=180"
+    },
+    "2026-11-06": {
+      "category": "90s Games & Play",
+      "word": "KHOKHO",
+      "hint": "A tag game involving \"Sit\" and \"Run.\"",
+      "trivia": "One of the oldest forms of outdoor sport in India, emphasizing speed and agility.",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.k05u14E-jJiLuHrgFtxYHQAAAA?pid=Api&P=0&h=180"
+    }
+  }
+}
+

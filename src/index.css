@@ -1,0 +1,616 @@
+/* 🌈 BODY */
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: 'Courier New', monospace;
+
+  background-image: url("/retro.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  min-height: 100vh;
+  
+}
+
+/* 🪟 MAIN WINDOW */
+.app {
+  padding: 8px;
+  background: #008080;
+  width: min(360px, 90vw);
+  max-width: 90vw;
+
+  border: #008080;
+  border-color: #ffffff #000000 #000000 #ffffff;
+  box-shadow: 4px 4px 0 #000000;
+  max-height: 95vh;   /*  prevents overflow */
+  overflow-y: auto;   /*  scroll inside app */
+}
+
+/* 🟦 HEADER TITLE BAR */
+.title-bar {
+  background: #000080;
+  color: white;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 6px 10px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.title-right {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.title-bar button {
+  background: #c0c0c0;
+  border: 2px solid;
+  border-color: #ffffff #000000 #000000 #ffffff;
+  cursor: pointer;
+}
+
+/* 🧾 HEADER TEXT */
+.header {
+  text-align: center;
+  padding: 10px;
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+.title-text {
+  font-weight: 900;
+  color: #000000;
+}
+
+.category-text {
+  font-weight: 800;
+  color: #111111;
+}
+
+
+
+/* 🎮 GAME AREA */
+.game-area {
+  position: relative;
+  padding: 8px;
+  margin: 6px;
+  min-height: auto;
+
+  background-image: none;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  border: none;
+  
+}
+
+.game-area::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 128, 128, 0.18);
+  pointer-events: none;
+}
+
+.grid,
+.keyboard {
+  position: relative;
+  z-index: 1;
+  background: transparent;
+}
+
+/* 🎮 GRID */
+.grid {
+  margin: 10px auto;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.grid::-webkit-scrollbar {
+  display: none;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  margin-bottom: 4px;
+  flex-shrink: 0;
+}
+
+/* 🧱 MAIN GAME TILE */
+.tile {
+  width: 42px;
+  height: 42px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 18px;
+  font-weight: bold;
+
+  background: #d3d3d3;
+
+  border: 2px solid;
+  border-color: #ffffff #404040 #404040 #ffffff;
+
+  transition: all 0.2s ease;
+}
+
+.tile.correct {
+  background: #1f7a3d;
+  color: white;
+}
+
+.tile.present {
+  background: #c9a227;
+  color: black;
+}
+
+.tile.absent {
+  background: #555555;
+  color: white;
+}
+
+/* ⌨️ KEYBOARD */
+.keyboard {
+  padding: 10px 8px 14px;
+}
+
+.kb-row {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  margin-bottom: 6px;
+}
+
+.key {
+  width: 42px;
+  height: 50px;
+  padding: 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: #cfcfcf;
+  color: #000;
+
+  border: 2px solid;
+  border-color: #ffffff #5a5a5a #5a5a5a #ffffff;
+
+  box-sizing: border-box;
+  font-family: 'Courier New', monospace;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.key:hover {
+  background: #e0e0e0;
+}
+
+.key:active {
+  border-color: #5a5a5a #ffffff #ffffff #5a5a5a;
+}
+
+.wide-key {
+  width: 64px;
+}
+
+.enter-key {
+  width: 62px;
+}
+
+.backspace-key {
+  width: 62px;
+}
+
+.key.correct {
+  background: #1f7a3d;
+  color: #fff;
+}
+
+.key.present {
+  background: #c9a227;
+  color: #000;
+}
+
+.key.absent {
+  background: #666666;
+  color: #fff;
+}
+
+/* 🔵 PRIMARY BUTTON */
+.btn-primary {
+  background: #000080;
+  color: white;
+
+  padding: 10px 20px;
+  margin: 8px;
+
+  border: 2px solid;
+  border-color: #ffffff #000000 #000000 #ffffff;
+
+  cursor: pointer;
+  font-weight: bold;
+}
+
+/* ⚪ SECONDARY BUTTON */
+.btn-secondary {
+  background: #c0c0c0;
+  color: black;
+
+  padding: 10px 20px;
+  margin: 8px;
+
+  border: 2px solid;
+  border-color: #ffffff #000000 #000000 #ffffff;
+
+  cursor: pointer;
+  font-weight: bold;
+}
+
+/* RESULT BOX */
+.result-box {
+  margin: 10px;
+  padding: 15px;
+  text-align: center;
+  background: #c0c0c0;
+  border: 2px solid;
+  border-color: #ffffff #404040 #404040 #ffffff;
+}
+
+/* 🧾 MODAL OVERLAY */
+.modal-overlay,
+.memory-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  z-index: 1000;
+}
+
+/* 🎉 RESULT MODAL */
+.modal {
+  width: 360px;
+  max-width: 90%;
+  background: #c0c0c0;
+  padding: 20px;
+  text-align: center;
+
+  border: 3px solid;
+  border-color: #ffffff #000000 #000000 #ffffff;
+
+  box-shadow: 4px 4px 0 #000;
+}
+
+/* 🧠 MEMORY CARD */
+.memory-card {
+  width: 350px;
+  max-width: 90%;
+  background: #c0c0c0;
+
+  border: 3px solid;
+  border-color: #ffffff #000000 #000000 #ffffff;
+}
+
+.memory-title {
+  background: #000080;
+  color: white;
+
+  padding: 6px;
+  font-size: 14px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.memory-title button {
+  background: #c0c0c0;
+  border: 2px solid;
+  border-color: #ffffff #000000 #000000 #ffffff;
+  cursor: pointer;
+}
+
+.memory-content {
+  padding: 15px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.memory-img {
+  width: 100%;
+  margin-bottom: 10px;
+
+  border: 2px solid;
+  border-color: #ffffff #404040 #404040 #ffffff;
+}
+
+/* ✨ FADE ANIMATION */
+.fade-in {
+  animation: fadeIn 0.25s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* ❓ HOW TO PLAY WINDOW */
+.howto-window {
+  width: 400px;
+  max-width: 92%;
+  background: #c0c0c0;
+
+  border: 3px solid;
+  border-color: #ffffff #000000 #000000 #ffffff;
+
+  box-shadow: 4px 4px 0 #000;
+}
+
+.howto-title-bar {
+  background: #000080;
+  color: white;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 6px 10px;
+  font-weight: bold;
+}
+
+.close-btn {
+  background: #c0c0c0;
+  border: 2px solid;
+  border-color: #ffffff #000000 #000000 #ffffff;
+  cursor: pointer;
+}
+
+.howto-content {
+  padding: 15px;
+  text-align: center;
+}
+
+.example {
+  margin: 15px 0;
+}
+
+.example-row {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  margin-bottom: 5px;
+}
+
+.example-tile {
+  width: 35px;
+  height: 35px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: #d3d3d3;
+
+  border: 2px solid;
+  border-color: #ffffff #404040 #404040 #ffffff;
+  font-weight: bold;
+}
+
+.example-tile.correct {
+  background: green;
+  color: white;
+}
+
+.example-tile.present {
+  background: goldenrod;
+  color: white;
+}
+
+.example-tile.absent {
+  background: #444;
+  color: white;
+}
+
+.rules {
+  text-align: left;
+  margin-top: 10px;
+}
+
+.start-btn {
+  width: 100%;
+  margin-top: 15px;
+  padding: 10px;
+
+  background: #000080;
+  color: white;
+
+  border: 2px solid;
+  border-color: #ffffff #000000 #000000 #ffffff;
+
+  font-weight: bold;
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .app {
+    width: 94vw;
+    max-width: 94vw;
+    padding: 8px;
+  }
+
+  .header {
+    font-size: 13px;
+    padding: 6px;
+  }
+
+  .title-bar,
+  .howto-title-bar,
+  .memory-title {
+    font-size: 11px;
+    padding: 5px 8px;
+  }
+
+  .game-area {
+    padding: 8px;
+    margin: 8px 4px;
+    min-height: auto;
+  }
+
+  .tile {
+    width: 32px !important;
+    height: 32px !important;
+    font-size: 14px !important;
+  }
+
+  .row {
+    gap: 4px;
+    margin-bottom: 4px;
+  }
+
+  .keyboard {
+    padding: 6px 4px 10px;
+  }
+
+  .kb-row {
+    gap: 3px;
+    margin-bottom: 5px;
+  }
+
+  .key {
+    width: 34px;
+    height: 44px;
+    font-size: 11px;
+  }
+
+  .wide-key {
+    width: 46px;
+  }
+
+  .enter-key,
+  .backspace-key {
+    width: 58px;
+    font-size: 10px;
+  }
+
+  .install-wrap {
+    margin: 6px 0 10px;
+  }
+
+  .btn-primary,
+  .btn-secondary,
+  .start-btn {
+    width: 100%;
+    margin: 6px 0;
+    padding: 10px;
+    font-size: 14px;
+  }
+
+  .howto-window,
+  .memory-card,
+  .modal {
+    width: 92vw;
+    max-width: 92vw;
+  }
+
+  .howto-content,
+  .memory-content,
+  .modal {
+    font-size: 13px;
+  }
+
+  .example-row {
+    gap: 4px;
+  }
+
+  .example-tile {
+    width: 30px;
+    height: 30px;
+    font-size: 14px;
+  }
+}
+
+.mode-switch {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin: 8px 0 12px;
+}
+
+.mode-btn {
+  background: #c0c0c0;
+  color: black;
+  padding: 8px 14px;
+  border: 2px solid;
+  border-color: #ffffff #000000 #000000 #ffffff;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.mode-btn.active {
+  background: #000080;
+  color: white;
+}
+
+@media (max-width: 600px) {
+  .mode-switch {
+    gap: 6px;
+    margin: 6px 0 10px;
+  }
+
+  .mode-btn {
+    font-size: 12px;
+    padding: 8px 10px;
+  }
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 8px;
+    align-items: center; /* ensure center */
+  }
+}
+
+/* FULL SCREEN CENTERING */
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;   /* 👈 THIS centers vertically */
+}
+
+
+
+/* INSTALL BUTTON WRAPPER */
+.install-wrap {
+  display: flex;
+  justify-content: center;
+  margin: 8px 0 12px;
+}
+
