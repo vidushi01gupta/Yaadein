@@ -7,7 +7,7 @@ import { getDailyData } from "./utils/getDailyData";
 import { checkGuess } from "./utils/checkWord";
 import { getStreak, updateStreak } from "./utils/streak";
 import { getReminder, saveReminder } from "./utils/reminder";
-import HowToPlay from "./components/HowToPlay";
+import HowToPlay from "./components/Howtoplay";
 import InstallButton from "./components/Installbutton";
 import HintPopup from "./components/HintPopup";
 
