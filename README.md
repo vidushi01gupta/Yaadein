@@ -2,7 +2,7 @@
 
 YAADEIN is a daily word-guessing web game inspired by the nostalgia of the 1990s. Players receive theme related hints and must guess a memorable word from the 90s era. A new challenge is released every day, encouraging users to return daily and maintain their winning streak.
 
-🌐 **Live Demo:** [https://theindianalmanac-yaadein-play.vercel.app](https://theindianalmanac-yaadein-play-aocroaaxs-vidushi-s-projects.vercel.app/)
+🌐 **Live Demo:** [(https://theindianalmanac-yaadein-play.vercel.app/)](https://theindianalmanac-yaadein-play.vercel.app/)
 
 ---
 
